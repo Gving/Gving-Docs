@@ -1,0 +1,24 @@
+input: .
+output: .retype
+url: https://gving.com
+branding:
+  colors:
+    label:
+      background: "#a6ce3a"
+      text: "#221c1c"
+  logo: logo.png
+  logoDark: logoDark.png
+  title: Gving
+  label: Docs
+links:
+- text: Home Page
+  link: https://gving.com
+  icon: home-fill
+  target: blank
+- text: App
+  link: https://app.gving.com
+  icon: person-fill
+  target: blank
+footer:
+  copyright: "&copy; Gving {{ year }}. All rights reserved."
+favicon: logo.png
