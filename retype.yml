@@ -1,6 +1,6 @@
 input: .
-output: .retype
-url: https://gving.com
+output: build
+url: https://docs.gving.com
 branding:
   colors:
     label:
