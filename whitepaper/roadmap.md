@@ -21,5 +21,5 @@ order: C
 - [ ] P2E Update - NFT Edition
 - [ ] Further Exchange Listings
 === Phase 5
-- [ ] Coming Soon
+- [ ] Complete Phase 3 to unlock
 ===

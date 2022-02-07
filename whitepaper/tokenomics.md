@@ -9,7 +9,7 @@ Tokenomics are split into 5 categories as shown below:
 A part of each transaction is donated to charities based on community polls.
 |||
 ||| 2. Buy Back and Burn :fire:
-A part of each transaction is used to buy more GVG and is sent to a burn wallet forever. This reduces the supply, making GVG scarcer. This can lead to an increase in price and benefits investors.
+A part of each transaction is used to buy more $GVG and is sent to a burn wallet forever. This reduces the supply, making $GVG scarcer. This can lead to an increase in price and benefits investors.
 |||
 ||| 3. Liquidity Pool :swimmer:
 A part of each transaction is added to the liquidity pool to ensure stability of the token.

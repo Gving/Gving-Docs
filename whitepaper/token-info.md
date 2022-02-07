@@ -5,7 +5,7 @@ order: B
 |||Name
 GVING
 |||Symbol
-GVG
+$GVG
 |||Decimals
 9
 |||Supply*
@@ -15,14 +15,14 @@ GVG
 |||
 
 !!!danger
-Make sure to copy the correct address when buying GVG, as each address belongs to a separate blockchain!
+Make sure to copy the correct address when buying $GVG, as each address belongs to a separate blockchain!
 !!!
 
-[!badge variant="info" text="Polygon GVG Contract Address"]
+[!badge variant="info" text="Polygon $GVG Contract Address"]
 ```
 0x000000000000000
 ```
-[!badge variant="info" text="BSC GVG Contract Address"]
+[!badge variant="info" text="BSC $GVG Contract Address"]
 ```
 0x000000000000000
 ```
