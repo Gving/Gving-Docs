@@ -11,7 +11,7 @@ order: C
 - [ ] Charity Voting Platform
 - [ ] Token Launch
 - [ ] P2E Wagering App Launch
-- [ ] Exchange Listings (CMC, CG)
+- [ ] Listings (CMC, CG)
 === Phase 3
 - [ ] P2E Update - More Games
 - [ ] First Large Charity Campaign
@@ -19,7 +19,7 @@ order: C
 === Phase 4
 - [ ] P2E Update - Group Playing
 - [ ] P2E Update - NFT Edition
-- [ ] Further Exchange Listings
+- [ ] Further Listings and Exchanges
 === Phase 5
 - [ ] Complete Phase 3 to unlock
 ===
