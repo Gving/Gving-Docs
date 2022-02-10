@@ -6,7 +6,7 @@ icon: file
 # Introduction 
 Gving utilizes multiple blockchains and provides a deflationary token, backed by a volume enhancing play to earn (P2E) wagering system, which continuously donates to vital causes worldwide through community polls.
 === Charity Based
-Gving is about giving back to the world. A percentage of each transaction is allocated to a multi-signature wallet which is used to give back to charitable organizations decided by the community. Cryptocurrencies are an attractive asset to donate due to decentralisation providing remote aid through a robust and stable payment solution.
+Gving is about giving back to the world. A percentage of each transaction is allocated to a multi-signature wallet which is used to give back to charitable organizations decided by the community through a DAO. Cryptocurrencies are an attractive asset to donate due to decentralisation providing remote aid through a robust and stable payment solution.
 === Community Driven
 Gving revolves around the community through a rewarding technology implemented to give back to the holders of the community, and give holders a voice through hosting community polls to determine what charitable organizations receive contributions.
 === Play to Earn

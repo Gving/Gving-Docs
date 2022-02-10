@@ -8,10 +8,10 @@ GVING
 $GVG
 |||Decimals
 9
-|||Supply*
-100B
-|||Slippage**
-15-17%
+|||Supply
+100B[^1]
+|||Slippage
+15-17%[^2]
 |||
 
 !!!danger
@@ -26,6 +26,6 @@ Make sure to copy the correct address when buying $GVG, as each address belongs 
 ```
 0x000000000000000
 ```
-*Total supply is 100B, however 40% will be burned on launch, and the buy back & burn function will further deflate the supply
+[^1]: Total supply is 100B, however 40% will be burned on launch, and the buy back & burn function will further deflate the supply
 
-**Slippage is usually around 15-17% however larger orders tend to face higher slippage.
+[^2]: Slippage is usually around 15-17% however larger orders tend to face higher slippage.
