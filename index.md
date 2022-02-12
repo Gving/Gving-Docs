@@ -1,5 +1,5 @@
 ---
-icon: home-fill
+icon: home
 ---
 # Welcome
 ![](intro.png)
@@ -17,4 +17,4 @@ If you have any questions or concerns, you can visit our Knowledge base!
 
 [!button variant="info" icon=":book:" iconAlign="right" text="Knowledge Base"](/knowledge-base/)
 
-Gving's utilizes multi-sig technology to further insure it's safety. Gving's contract address requires 4/6 signatures, and Gving's charity wallet requires 2/6 signatures.
+Gving's utilizes multi-sig technology to further insure it's safety. Gving's contract deployer requires 4 signatures, and Gving's charity wallet requires 2 signatures.

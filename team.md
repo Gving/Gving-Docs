@@ -1,6 +1,6 @@
 ---
 order: D
-icon: people
+icon: verified
 ---
 # Core Team
 ==- Tony Costanzo | [!badge variant="contrast" size="m" text="Director of Operations"]

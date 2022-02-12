@@ -1,5 +1,6 @@
 ---
 order: A
+icon: ruby
 ---
 # Token
 ---

@@ -15,9 +15,13 @@ links:
   link: https://gving.com
   icon: home-fill
   target: blank
-- text: App
+- text: DApp
   link: https://app.gving.com
-  icon: person-fill
+  icon: telescope-fill
+  target: blank
+- text: Games
+  link: https://app.gving.com
+  icon: star-fill
   target: blank
 footer:
   copyright: "&copy; Gving {{ year }}. All rights reserved."

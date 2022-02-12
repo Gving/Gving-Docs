@@ -1,5 +1,6 @@
 ---
 order: B
+icon: info
 ---
 # Token Information
 |||Name

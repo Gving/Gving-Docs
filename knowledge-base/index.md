@@ -1,6 +1,6 @@
 ---
 order: B
-icon: book
+icon: mortar-board
 ---
 ![](faq.png)
 # How can we help?
