@@ -1,5 +1,5 @@
 ---
-order: D
+order: Y
 icon: verified
 ---
 # Core Team
