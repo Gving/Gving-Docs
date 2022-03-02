@@ -6,8 +6,7 @@ icon: calendar
 === Phase 1 [!badge variant="info" text="IN PROGRESS" margin="0 0 0 5"]
 - [x] Landing Page & Whitepaper Release
 - [ ] Play to Earn (P2E) MVP Launch
-- [ ] KYC
-- [ ] Audit
+- [ ] KYC & Audit
 - [ ] Token Presale
 === Phase 2
 - [ ] Tracker App
