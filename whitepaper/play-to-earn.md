@@ -1,5 +1,5 @@
 ---
-order: D
+order: E
 icon: rocket
 ---
 # Play to Earn
