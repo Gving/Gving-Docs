@@ -6,6 +6,8 @@ icon: calendar
 === Phase 1 [!badge variant="info" text="IN PROGRESS" margin="0 0 0 5"]
 - [x] Landing Page & Whitepaper Release
 - [ ] Play to Earn (P2E) MVP Launch
+- [ ] KYC
+- [ ] Audit
 - [ ] Token Presale
 === Phase 2
 - [ ] Tracker App
@@ -13,6 +15,7 @@ icon: calendar
 - [ ] Token Launch
 - [ ] P2E Wagering App Launch
 - [ ] Listings (CMC, CG)
+- [ ] Certik Audit
 === Phase 3
 - [ ] P2E Update - More Games
 - [ ] First Large Charity Campaign
