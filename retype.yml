@@ -15,11 +15,11 @@ links:
   link: https://gving.com
   icon: home-fill
   target: blank
-- text: DApp
+- text: DApp (Coming Soon)
   link: https://app.gving.com
   icon: telescope-fill
   target: blank
-- text: Games
+#- text: Games
   link: https://app.gving.com
   icon: star-fill
   target: blank
