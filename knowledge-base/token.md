@@ -17,7 +17,7 @@ Deciding which token to purchase depends on the user. From a marketing, infrastr
 A presale will be held on the Polygon blockchain, and after this, the LP will be split into both the BSC and the Polygon chain.. Arbitrage will provide a way for users to gain more for their investment, whilst maintaining similar pricess of the token on both chains.
 ===
 #### Buy/Sell
-==- How to purchase $GVG on BSC?
+==- How to purchase $GVG on BSC? (Coming Soon)
 Set up a wallet on MetaMask, and add the Binance Smart Chain Network
 ```
 Network Name: Smart Chain
@@ -32,7 +32,7 @@ After setting up the network, you can now proceed to purchase BNB (Smart Chain) 
 !!!danger
 Make sure to set slippage between **15-17%**
 !!!
-==- How to purchase $GVG on Polygon?
+==- How to purchase $GVG on Polygon? (Coming Soon)
 Set up a wallet on MetaMask, and add the Polygon Chain Network
 ```
 Network Name: Polygon Mainnet
@@ -47,8 +47,8 @@ After setting up the network, you can now proceed to purchase MATIC through an e
 !!!danger
 Make sure to set slippage between **15-17%**
 !!!
-==- How to swap $GVG BSC to $GVG Polygon?
-test
-==- How to sell $GVG?
-test
+==- How to swap $GVG BSC to $GVG Polygon? (Coming Soon)
+
+==- How to sell $GVG? (Coming Soon)
+
 ===

@@ -13,7 +13,7 @@ Our contract contains an anti-whale mechanism that is deployed to prevent any ho
 Our contract includes an anti-bot measurement to ensure our presale and launch does not get taken over by bots. The way this works will remain confidential to prevent bots and bot users from understanding its mechanism and to prevent them from countering it.
 
 #### Bridges :bridge_at_night:
-Our bridges work by XXXXXXXXXXXXXXXXXXXXXXX allowing users to seaminglessly swap their $GVG tokens from the Binance Smart Chain to the Polygon Chain in a matter of seconds with no fees (excluding relative gas fees)
+Our bridges allow users to seamlessly swap cross-chain between Polygon and the Binance Smart Chain to allow the user to hold their tokens wherever the prefer. This also allows users from the Binance Smart Chain to onboard to polygon, where the majority of our ecosystem exists.
 
 
 **View our contract directly on the blockchain through the link below.**
