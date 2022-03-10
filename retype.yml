@@ -26,3 +26,6 @@ links:
 footer:
   copyright: "&copy; Gving {{ year }}. All rights reserved."
 favicon: logo.png
+integrations:
+  googleAnalytics:
+    id: G-014D5SFM3W
