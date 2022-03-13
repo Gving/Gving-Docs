@@ -17,8 +17,7 @@ A part of each transaction is used to buy more $GVG and is sent to a burn wallet
 A part of each transaction is added to the liquidity pool to further ensure the stability of the token.
 ||| 
 ||| 4. Community Reflections :gem:
-A part of each transaction is redistributed to all token holders in the form of either BUSD if holding on the Binance Smart Chain
- or USDC if holding on the Polygon Network.
+A part of each transaction is redistributed to all token holders in the form of either BUSD if holding on the BNB Chain or USDC if holding on the Polygon Network.
 |||
 ||| 5. Use Wallet :gear:
 A part of swap transactions are reinvested into growing, improving, and marketing the project.

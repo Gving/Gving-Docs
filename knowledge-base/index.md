@@ -3,7 +3,7 @@ order: B
 icon: mortar-board
 ---
 ![](faq.png)
-# How can we help?
+# Knowledge Base
 Get up-to-date information about the most frequent asked questions by choosing one of the categories below!
 
 [!button variant="contrast" icon=":moneybag:" text="Token" margin="0 12 12 0"](/knowledge-base/token)
