@@ -1,5 +1,13 @@
 <html>
 <head>
-    <link href="resources/css/custom.css" rel="stylesheet" />
 </head>
+<script>
+    var uniqueNum = new Date().getTime();
+    var cssURL = 'resources/css/custom.css?ver=' + uniqueNum;
+    var cssElement=document.createElement('link')
+    cssElement.setAttribute('rel','stylesheet')
+    cssElement.setAttribute('type','text/css')
+    cssElement.setAttribute('href', cssURL);
+    document.getElementsByTagName("head")[0].appendChild(cssElement);
+</script>
 </html>
