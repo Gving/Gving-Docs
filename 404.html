@@ -28,16 +28,24 @@
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
     <link href="/logo.png" rel="icon" />
-    <link href="/resources/css/retype.css?v=2.0.701292624305" rel="stylesheet" data-turbo-track="reload" />
+    <link href="/resources/css/retype.css?v=2.0.701295177571" rel="stylesheet" data-turbo-track="reload" />
 
-    <script type="text/javascript" src="/resources/js/config.js?v=2.0.701292624305" defer data-turbo-track="reload"></script>
+    <script type="text/javascript" src="/resources/js/config.js?v=2.0.701295177571" defer data-turbo-track="reload"></script>
     <script type="text/javascript" src="/resources/js/retype.js?v=2.0" defer data-turbo-track="reload"></script>
-    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.0.701292624305" defer></script>
+    <script id="lunr-js" type="text/javascript" src="/resources/js/lunr.js?v=2.0.701295177571" defer></script>
 
     <html>
     <head>
-        <link href="resources/css/custom.css" rel="stylesheet" />
     </head>
+    <script>
+        var uniqueNum = new Date().getTime();
+        var cssURL = 'resources/css/custom.css?ver=' + uniqueNum;
+        var cssElement=document.createElement('link')
+        cssElement.setAttribute('rel','stylesheet')
+        cssElement.setAttribute('type','text/css')
+        cssElement.setAttribute('href', cssURL);
+        document.getElementsByTagName("head")[0].appendChild(cssElement);
+    </script>
     </html>
 </head>
 <body>
