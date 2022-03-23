@@ -18,4 +18,4 @@ Our bridges allow users to seamlessly swap cross-chain between the Polygon Netwo
 
 **View our contracts directly on the blockchain through the link below.**
 
-[!button variant="primary" icon=":lock:" size="xl" target="blank" text="Coming Soon"]()
+[!button variant="primary" icon=":lock:" size="xl" target="blank" text="Coming Soon"](https://app.gving.com)

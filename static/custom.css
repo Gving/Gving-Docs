@@ -1,32 +1,124 @@
-a, .text-blue-600 {
-    color: #000000;
-}
-
-/*Test*/
-
-.dark a, .text-blue-600 {
-    color: #000000;
-}
 
 a:hover {
     color: #a6ce3a;
 }
 
 .bg-blue-100 {
-    background-color: #b7d27d;
+    background-color: #e6eed6;
 }
 
-.bg-blue-100:hover {
-    background-color: #5a8938;
+.bg-gray-100 {
+    background-color: #f1f3ea;
 }
 
 .hover\:text-blue-800 {
-    color: #000000;
+    color: #5A8938;
 }
+
 .hover\:text-blue-800:hover {
     color: #a6ce3a;
 }
 
-.dark .dark\:hover\:text-blue-200:hover {
+.group:hover .group-hover\:text-blue-500 {
+    color: #5A8938;
+}
+
+.text-gray-500:hover {
+    color:#a6ce3a;
+}
+
+.text-gray-900:hover {
+    color:#a6ce3a;
+}
+
+.text-blue-500 {
+    color:#5A8938;
+}
+
+.text-blue-500:hover {
+    color:#a6ce3a;
+}
+
+.hover\:text-blue-500:hover {
     color: #a6ce3a;
+}
+
+.text-blue-600 {
+    color:#5A8938;
+}
+
+.bg-blue-500 {
+    background-color: #a6ce3a;
+}
+
+.bg-blue-500:hover {
+    background-color: #5A8938;
+}
+
+.border-blue-500 {
+    border-color: #a6ce3a;
+}
+
+.docs-markdown a:not(.no-link) {
+    color: #a6ce3a;
+}
+
+.docs-markdown a:not(.no-link):hover {
+    color: #a6ce3a;
+}
+
+.dark .dark\:bg-blue-400 {
+    background-color: #a6ce3a;
+}
+
+.dark .dark\:text-blue-400 {
+    color: #a6ce3a;
+}
+
+.dark .dark\:text-blue-600 {
+    color: #a6ce3a;
+}
+
+.dark .dark\:text-blue-400:hover {
+    color: #5A8938;
+}
+
+.dark .dark\:hover\:text-blue-200:hover {
+    color: #5A8938;
+}
+
+.dark .dark\:text-dark-350:hover {
+    color: #5A8938;
+}
+
+.dark .dark\:hover\:text-blue-400:hover {
+    color: #5A8938;
+}
+
+.dark .dark\:text-dark-250:hover {
+    color: #a6ce3a;
+}
+
+.dark .group:hover .dark\:group-hover\:text-blue-400 {
+    color: #a6ce3a;
+}
+
+.docs-markdown ul.contains-task-list input:checked:before {
+    background-color: #a6ce3a;
+}
+
+.dark .docs-markdown ul.contains-task-list input:checked:before {
+    background-color: #a6ce3a;
+}
+
+.docs-markdown h1 .header-anchor-trigger, .docs-markdown h2 .header-anchor-trigger, .docs-markdown h3 .header-anchor-trigger, .docs-markdown h4 .header-anchor-trigger, .docs-markdown h5 .header-anchor-trigger, .docs-markdown h6 .header-anchor-trigger {
+    color: #5A8938;
+}
+
+.dark .docs-markdown a:not(.no-link), .dark .docs-markdown h1 .header-anchor-trigger, .dark .docs-markdown h2 .header-anchor-trigger, .dark .docs-markdown h3 .header-anchor-trigger, .dark .docs-markdown h4 .header-anchor-trigger, .dark .docs-markdown h5 .header-anchor-trigger, .dark .docs-markdown h6 .header-anchor-trigger {
+    color: #a6ce3a;
+}
+
+.dark .dark\:border-blue-400 {
+    border-color: #5A8938;
 }
