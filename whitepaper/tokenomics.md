@@ -22,7 +22,7 @@ A part of each transaction is redistributed to all token holders in the form of 
 ||| 5. Use Wallet :gear:
 A part of swap transactions are reinvested into growing, improving, and marketing the project.
 |||
-!!!danger
+!!!warning
 Gving contains two forms of tokenomics depending on the type of transaction.
 !!!
 +++ Swaps (Total Tax: 13%)

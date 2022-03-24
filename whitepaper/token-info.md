@@ -15,7 +15,7 @@ $GVG
 15-17%[^2]
 |||
 
-!!!danger
+!!!warning
 Make sure to copy the correct address when buying $GVG, as each address belongs to a separate blockchain!
 !!!
 
